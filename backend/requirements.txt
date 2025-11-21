@@ -1,0 +1,16 @@
+# youtube
+youtube-transcript-api
+
+# langchain
+langchain
+langchain_text_splitters
+langchain_community
+langchain_huggingface
+sentence-transformers
+faiss-cpu
+
+# env
+python-dotenv
+
+# fast api
+fastapi[all]

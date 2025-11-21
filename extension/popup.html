@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+  <div class="header">
+    <img src="./icons/logo.png" class="logo" />
+    <div>
+      <!-- <label><input type="checkbox" id="autoOpenCheckbox" /> Auto-open chat</label> -->
+      <button id="clearHistoryBtn">
+        <img src="./icons/delete-btn.png" alt="clear history" class="header-btn">
+      </button>
+      <button id="closePopup">
+        <img src="./icons/close-btn.png" alt="close window" class="header-btn">
+      </button>
+    </div>
+  </div>
+
+  <div id="chatWindow" class="chat-window"></div>
+
+  <div class="input-area">
+    <input id="userInput" type="text" placeholder="Ask about this video..." />
+    <button id="sendBtn">
+        <img src="./icons/send-btn.png" alt="Send" class="header-btn">
+    </button>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
