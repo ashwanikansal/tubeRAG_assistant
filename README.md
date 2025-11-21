@@ -36,6 +36,7 @@ TubeRAG Assistant is a smart Chrome extension that lets you chat with any YouTub
 
 No complicated setup needed!
 
+![RAG Usage](https://raw.githubusercontent.com/ashwanikansal/tubeRAG_assistant/refs/heads/main/assets/TubeRag.png)
 ---
 
 ### 🛠️ Tech Stack Overview
